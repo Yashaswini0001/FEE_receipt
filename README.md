@@ -1,2 +1,3 @@
 # FEE_receipt
 Codeclause-internship-fee_receipt
+An interface to print the fees paid by students in a college. The login page contains admin_login and student_login which contain deleting, editing, viewing, adding student details and printing student details respectively. There are two databases in MySQL created for information storage. One database contains admin username and password and the other database contains student details which include name,reg_no, dept,fees_paid, semester, dob and phone number. The login details for the student login are his name and dob respectively. The student can even print his fee details in the form of a PDF file. Adding admin is not allowed in the interface and hence must be added in the workbench.
